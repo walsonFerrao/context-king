@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "tela",
+      "age": "44",
+      "dob": "1447",
+      "states": "karnataka",
+      "address": "bangalore",
+      "pincode": "575015",
+      "id": 7
+    },
+    {
+      "name": "puspa",
+      "age": "35",
+      "dob": "1774",
+      "states": "tamilnadu",
+      "address": "ka rao road",
+      "pincode": "59674",
+      "id": 8
+    },
+    {
+      "name": "puspa",
+      "age": "35",
+      "dob": "1774",
+      "states": "tamilnadu",
+      "address": "ka rao road",
+      "pincode": "59674",
+      "id": 9
+    },
+    {
+      "name": "greg",
+      "age": "25",
+      "dob": "1997",
+      "states": "mumbai",
+      "address": "ls road",
+      "pincode": "1234",
+      "id": 10
+    }
+  ]
+}
